@@ -148,5 +148,7 @@ public class DoctoreService {
 	public List<DoctoreStaff> getDocterNameStartWithS(){
 		return dd. getDocterNameStartWithS();
 	}
+	
+
 
 }
